@@ -14,7 +14,4 @@
 # Galaxy J2 Core: coming soon 
 # Galaxy J6 Prime: coming soon
 
-# ----/Maintainer/----
-@gautam4966
-# ---------------------------
 # Credits: .........No One, I'm Self-made Baby  👑😉👑
