@@ -2,11 +2,11 @@
 # Author: ゴータム 🦁
 
 # ----/Features/----
-# 2.0 A Charging ⚡️
-# ZRAM Enabled 🔮
-# Kali Net Hunter Supported 👨‍💻 
-# Overclocking Coming Soon 🌪
-# Ubuntu Touch Support In Beta Release ☄️
+ 2.0 A Charging ⚡️
+ ZRAM Enabled 🔮
+ Kali Net Hunter Supported 👨‍💻 
+ Overclocking Coming Soon 🌪
+ Ubuntu Touch Support In Beta Release ☄️
 
 # ----/Devices Supported/----
 
