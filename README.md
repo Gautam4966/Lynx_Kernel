@@ -15,3 +15,4 @@
 # Galaxy J6 Prime: coming soon
 
 # Credits: .........No One, I'm Self-made Baby  👑😉👑
+sources: https://github.com/Gautam4966/android_kernel_samsung_msm8917_64
