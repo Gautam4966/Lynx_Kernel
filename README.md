@@ -12,7 +12,7 @@
 
 # Galaxy J4+: Supported
 # Galaxy J2 Core: Comming Soon
-# Galaxy J6 Prime: Supported
+# Galaxy J6 +: Supported
 
 # Credits: .........No One, I'm Self-made Baby  👑😉👑
 sources: https://github.com/Gautam4966/android_kernel_samsung_msm8917_64
