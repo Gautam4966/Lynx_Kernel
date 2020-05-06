@@ -10,9 +10,9 @@
 
 # ----/Devices Supported/----
 
-# Galaxy J4+: https://github.com/Gautam4966/Lynx_Kernel
-# Galaxy J2 Core: coming soon 
-# Galaxy J6 Prime: coming soon
+# Galaxy J4+: Supported
+# Galaxy J2 Core: Comming Soon
+# Galaxy J6 Prime: Supported
 
 # Credits: .........No One, I'm Self-made Baby  👑😉👑
 sources: https://github.com/Gautam4966/android_kernel_samsung_msm8917_64
