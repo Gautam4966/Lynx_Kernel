@@ -11,7 +11,7 @@
 # ----/Devices Supported/----
 
 # Galaxy J4+: Supported
-# Galaxy J2 Core: Comming Soon
+# Galaxy J4 Core: Supported
 # Galaxy J6 +: Supported
 
 # Credits: .........No One, I'm Self-made Baby  👑😉👑
